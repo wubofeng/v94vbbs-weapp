@@ -41,6 +41,7 @@
         'pages/index',
         'pages/user',
         'pages/auth/login',
+        'pages/auth/register'
       ],
       window: {
         backgroundTextStyle: 'light',
