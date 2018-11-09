@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d253f13b-d754-499c-ba18-6ab239811c92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.wpy" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.wpy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/auth/login.wpy" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/auth/login.wpy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/register.wpy" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/auth/register.wpy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +43,16 @@
         <counts>
           <entry key="js" value="2908" />
           <entry key="json" value="3" />
-          <entry key="txt" value="51" />
-          <entry key="wpy" value="2256" />
+          <entry key="txt" value="67" />
+          <entry key="wpy" value="2456" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="2908" />
-          <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Vue.js" value="2256" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="Vue.js" value="2456" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -80,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/auth/register.wpy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="329">
+              <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#image#0;n#view#1;n#view#1;n#modal#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="e#2081#2104#0" expanded="true" />
@@ -278,7 +277,7 @@
       <workItem from="1541660900960" duration="426000" />
       <workItem from="1541661345999" duration="5601000" />
       <workItem from="1541668338049" duration="17000" />
-      <workItem from="1541726982665" duration="16781000" />
+      <workItem from="1541726982665" duration="18126000" />
     </task>
     <task id="LOCAL-00001" summary="add tabbar">
       <created>1541666198699</created>
@@ -315,11 +314,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541756072359</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="get captcha code">
+      <created>1541761564378</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541761564378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34801000" />
+    <option name="totallyTimeSpent" value="36146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -358,7 +364,8 @@
     <MESSAGE value="wepy login" />
     <MESSAGE value="page login" />
     <MESSAGE value="authRequest and logout" />
-    <option name="LAST_COMMIT_MESSAGE" value="authRequest and logout" />
+    <MESSAGE value="get captcha code" />
+    <option name="LAST_COMMIT_MESSAGE" value="get captcha code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project.config.json">
@@ -417,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/auth/register.wpy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="329">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#image#0;n#view#1;n#view#1;n#modal#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#2081#2104#0" expanded="true" />
