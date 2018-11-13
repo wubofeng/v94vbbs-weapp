@@ -97,7 +97,7 @@ const getToken = async (options) => {
       accessToken = refreshResponse.data.access_token
     } else {
       // 刷新失败了，重新调用登录方法，设置Token
-      let  authResponse = await login()
+      let authResponse = await login()
       if (authResponse.statusCode === 200) {
         accessToken = authResponse.data.access_token
       }
